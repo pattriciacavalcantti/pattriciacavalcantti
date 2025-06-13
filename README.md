@@ -1,16 +1,35 @@
-## Hi there 👋
+## Olá! Seja Bem-vindo!
 
-<!--
-**pattriciacavalcantti/pattriciacavalcantti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Decisões estratégicas com base em dados.<br>
+📊 Visualização de dados e análise exploratória.<br>
+🔒 Proteção de dados.<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 📚 Estatísticas do GitHub
+ 
+![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattriciacavalcantti&show_icons=true&theme=onedark) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattricia&layout=compact&theme=onedark)](https://github.com/ananunesdev/github-readme-stats)
+
+## 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+
+</div>
+
+
+## ⚡Outras habilidades
+![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+## 🌐Conecte-se comigo
+  <a href = "mailto:pattriciacavalcantti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+</div>
