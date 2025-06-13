@@ -1,6 +1,6 @@
 ## Olá! Seja Bem-vindo!
 
-🎯 Decisões estratégicas com base em dados.<br>
+🎯 Decisão estratégica com base em dados.<br>
 📊 Visualização de dados e análise exploratória.<br>
 🔒 Proteção de dados.<br>
 
