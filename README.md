@@ -1,14 +1,17 @@
-## Olá! Seja Bem-vindo!
+<h1 align="center">Hi 👋, Welcome to my profile!</h1>
+<br>
 
 🎯 Decisão estratégica com base em dados.<br>
 📊 Visualização de dados e análise exploratória.<br>
 🔒 Proteção de dados.<br>
 
 
- ## 📚 Estatísticas do GitHub
- 
-![Pat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattriciacavalcantti&show_icons=true&theme=onedark) <br>
+ ## 📚 Estatísticas do GitHub 
+<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattricia&layout=compact&theme=onedark)](https://github.com/ananunesdev/github-readme-stats)
+<div>
+
 
 ## 🛠️ Tecnologias
 
@@ -33,3 +36,7 @@
   <a href = "mailto:pattriciacavalcantti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
    
 </div>
+</details>
+
+---
+<img src="https://imgur.com/rilHVxA.png"/>
